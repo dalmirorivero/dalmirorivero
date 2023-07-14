@@ -15,11 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- ` ` `
+```javascript
  const dalmirorivero = {
   code: ["Javascript", "Typescript", "HTML", "CSS", "Java"],
   frameworks: ["Angular", "React", "Vue", "Spring", "Express"],
   tools: ["Bootstrap", "Node", "Git"],
-  database: ["MySQL", "MongoDB]
+  database: ["MySQL", "MongoDB"]
 };
- ` ` `
+```
+   
