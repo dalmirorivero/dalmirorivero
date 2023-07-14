@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+const dalmirorivero = {
+  code: ["Javascript", "Typescript", "HTML", "CSS", "Java"],
+  frameworks: ["Angular", "React", "Vue", "Spring", "Express"],
+  tools: ["Bootstrap", "Node", "Git"],
+  database: ["MySQL", "MongoDB]
+};
