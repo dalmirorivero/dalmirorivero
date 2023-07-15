@@ -11,12 +11,9 @@ Here are some ideas to get you started:
 <ul type=none align=left>
 <li>🌎 I’m located on: Buenos Aires, Argentina.</li>
 <li>🤓 Currently learning: Backend development.</li>
-<li>📫 You can reach me on: dalmiro.rivero1@gmail.com</li>
+<li>📫 You can reach me on:<a href="mailto:dalmiro.rivero1@gmail.com"> dalmiro.rivero1@gmail.com </a></li>
 </ul>
-
 </div>
-
-
 
 ```javascript
  const dalmirorivero = {
@@ -25,6 +22,7 @@ Here are some ideas to get you started:
   database: ["MySQL", "MongoDB"]
 };
 ```
+
 <div align="left">
 <a href="https://github.com/dalmirorivero" >
  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmirorivero&layout=compact&theme=graywhite" />
