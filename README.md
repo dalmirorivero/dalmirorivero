@@ -7,12 +7,12 @@ Here are some ideas to get you started:
 -->
 
 <div>
-<h3>Sneak peek about me...</h3>
-<ul type=none align=left>
-<li>🌎 I’m located on: Buenos Aires, Argentina.</li>
-<li>🤓 Currently learning: Backend development.</li>
-<li>📫 You can reach me on:<a href="mailto:dalmiro.rivero1@gmail.com"> dalmiro.rivero1@gmail.com </a></li>
-</ul>
+<h3>   Sneak peek about me...</h3>
+
+<p>🌎 I’m located on: Buenos Aires, Argentina.</p>
+<p>🤓 Currently learning: Backend development.</p>
+<p>📫 You can reach me on:<a href="mailto:dalmiro.rivero1@gmail.com"> dalmiro.rivero1@gmail.com </a></p>
+
 </div>
 
 ```javascript
