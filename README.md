@@ -28,7 +28,7 @@ Here are some ideas to get you started:
  <img  height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalmirorivero&layout=compact&theme=graywhite" />
 </a>
 <a href="https://github.com/dalmirorivero" >
-  <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=dalmirorivero&show_icons=true&theme=graywhite&hide_rank=false&card_width=270&rank_icon=github" />
+  <img   height="180em" src="https://github-readme-stats.vercel.app/api?username=dalmirorivero&show_icons=true&theme=graywhite&hide_rank=true&card_width=355&rank_icon=github" />
 </a> 
 <a align="right"><img width="155" align="right" src="https://github.com/dalmirorivero/dalmirorivero/assets/57370438/b55f96d9-2039-4bd6-bbbc-360e6feb768c"/></a>
 </div> 
