@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 </div>
 
 ```javascript
- const dalmirorivero = {
+ const webDeveloper = {
   frameworks: ["Angular", "React", "Vue", "Spring", "Express"],
   tools: ["Bootstrap", "Node", "Git"],
   database: ["MySQL", "MongoDB"]
